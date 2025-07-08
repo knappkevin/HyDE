@@ -8,6 +8,7 @@ python-requests|wttrbar                                # script dependency
 ddcui                                                  # GUI to control brightness for external monitors
 # hyprgui-bin                                          # GUI for hyprland configuration // might mess your userprefs but convenient // Just disappeared
 # power-profiles-daemon                                # for managing power profiles from waybar
+btop                                                   # system resource manager
 
 # --------------------------------------------------- // Shell
 
@@ -17,6 +18,9 @@ xdg-desktop-portal-gtk                                 # xdg desktop portal usin
 wf-recorder                                          # Screen recorder for wlroots-based compositors such as sway
 # emote                                                # emoji picker gtk3
 # wl-screenrec                                         # High performance hardware accelerated wlroots screen recorder // NO support for NVIDIA
+fastfetch                                              # terminal system information displayer
+cmatrix                                                # terminal decoration of matrix
+cbonsai                                                # terminal decoration of bonsais
 
 # --------------------------------------------------- // Gaming
 steam                                                  # gaming platform
@@ -32,6 +36,9 @@ spicetify-cli                                          # cli to customize spotif
 
 # --------------------------------------------------- // Apps
 # neovim                                               # vim based text editor
+flatpak                                                # dependency for discover
+discover                                               # flathub app manager
+discord                                                # messenging app
 
 # --------------------------------------------------- // Shell
 # --------------------------------------------------- // zsh
@@ -48,7 +55,7 @@ duf|zsh                                                  # prettier version of d
 # vscodium                                              # Full oss text editor
 # vscodium-marketplace|vscodium                         # VSCodium marketplace
 # code-marketplace|code                                 # Code-Oss marketplace
-# visual-studio-code-bin                                # MS  text editor
+visual-studio-code-bin                                # MS  text editor
 
 # --------------------------------------------------- // Backends
 #electron                                              # electron backend
